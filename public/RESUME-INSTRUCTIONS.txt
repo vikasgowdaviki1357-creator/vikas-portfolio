@@ -1,0 +1,1 @@
+Add your real resume PDF here and name it resume.pdf. The View Resume buttons link to /resume.pdf.
